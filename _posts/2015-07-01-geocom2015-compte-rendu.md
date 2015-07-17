@@ -9,7 +9,7 @@ uid: 2015-07-01
 Du 22 au 24 juin, la Maison de l'Alsace a hébergé le GeoCom 2015, qui s'est déroulé dans d'excellentes conditions.
 Une quarantaine de personnes, issues de la communauté des utilisateurs, administrateurs et développeurs, ont pu se retrouver pour partager les pratiques et élaborer la feuille de route de l'année à venir. 
 L'événement était retransmis en direct sur YouTube, ce qui a permis à plusieurs personnes distantes de suivre les échanges. 
-
+Test
 <!--more-->
 
 <a href="/public/geocom2015/20150623_153316.JPG" hreflang="fr"><img src="/public/geocom2015/20150623_153316_mini.JPG" alt="geocom2015" style="float:right; margin: 0 0 1em 1em;" title="geocom 2015, la communauté" /></a>
